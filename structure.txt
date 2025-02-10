@@ -1,0 +1,10 @@
+project-folder/
+├── css/
+│   └── styles.css
+├── js/
+│   └── scripts.js
+├── php/
+│   ├── register.php
+│   └── login.php
+├── index.html
+└── db_config.php
